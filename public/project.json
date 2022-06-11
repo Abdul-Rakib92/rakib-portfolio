@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Repair.BD ",
+    "technology": "Tailwind CSS, Daisy UI, React JS, Firebase Authentication, React Hook Form, React Query, Mongo DB, Express JS, Node JS, Stripe Payment System and JWT Token",
+    "description": "Repair.BD is a Full-stack website. Basically, it is a drill machine manufacturing company’s website. This website has an admin panel which is a protected route and the admin has access to add more services and also access many dashboard features. For admin access, please go through the readme file. ",
+    "href": "https://repair-bd.web.app/",
+
+    "img": "https://i.ibb.co/SPT0QCB/repairBd.png",
+    "img2": "https://i.ibb.co/YkmRYQC/repair-BD2.png",
+    "img3": "https://i.ibb.co/4ZH5tWf/repair-Bd3.png"
+  },
+  {
+    "id": 2,
+    "name": "Ahammed Furniture Warehouse ",
+    "technology": "Bootstrap 5, React Bootstrap, React JS, React Hook Form, Mongo DB, Express JS and Node JS",
+    "description": "Ahammed Furniture Warehouse is a furniture storage warehouse website. This is a Full-stack Project, by this website users can maintain the quantity of stock and update stock. Implement Firebase Authentication for Email and Google Login.",
+    "href": "https://ahammed-furniture-warehouse.web.app/",
+    "img": "https://i.ibb.co/S3RW46D/furniture.png",
+    "img2": "https://i.ibb.co/Pc6qWSy/furniture2.png",
+    "img3": "https://i.ibb.co/NxBcGSY/furniture3.png"
+  },
+  {
+    "id": 3,
+    "name": "Muscle Stone Personal Coach ",
+    "technology": "Bootstrap 5, React Bootstrap, React JS, React Router and React Router Hook",
+    "description": "Muscle Stone Personal Coach is a Front end website. This is a personal gym trainer website. This website has Implement Firebase Authentication for Email and social Login.",
+    "href": "https://muscle-stone-assignment-10.web.app/",
+    "img": "https://i.ibb.co/FxPGBBd/muscle-Stone.png",
+    "img2": "https://i.ibb.co/CzZFFTL/muscle-Stone2.png",
+    "img3": "https://i.ibb.co/QkyXj9B/muscle-Stone3.png"
+  }
+]
