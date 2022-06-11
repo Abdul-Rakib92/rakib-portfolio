@@ -7,7 +7,7 @@ const ProjectDetail = () => {
   // const { id, name, technology, img, href } = project;
 
   useEffect(() => {
-    const url = `http://localhost:5000/project/${projectId}`;
+    const url = `https://afternoon-basin-68485.herokuapp.com/project/${projectId}`;
     console.log(url);
     fetch(url)
       .then((res) => res.json())
